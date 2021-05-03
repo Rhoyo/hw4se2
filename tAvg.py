@@ -4,7 +4,7 @@ import avg
 
 class test(unittest.TestCase):
 	inList = [1,2,3]
-	length = 3
+	length = 0
 	
 	#testCases
 	def test_empty(self):
